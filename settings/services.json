@@ -132,7 +132,8 @@
 		}
 	],
 	"game": {
-		"name": "UNKNOW GAME",
-		"appid": "UNKNOW"
+		"name": "industry idle branch",
+		"appid": "655279378",
+		"cid": "0"
 	}
 }

@@ -63,12 +63,13 @@
     "width": 1280
   },
   "win32": {
-    "REMOTE_SERVER_ROOT": "",
+    "REMOTE_SERVER_ROOT": "serv",
     "height": 720,
     "width": 1280
   },
   "mainCompressionType": "merge_all_json",
   "mainIsRemote": false,
   "nativeMd5Cache": true,
-  "agreements": {}
+  "agreements": {},
+  "includeAnySDK": false
 }
